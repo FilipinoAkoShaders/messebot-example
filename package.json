@@ -1,0 +1,14 @@
+{
+  "name": "messenbot.js-example",
+  "version": "1.0.0",
+  "description": "Example!!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "messenbot.js": "^1.0.0",
+    "word-definition": "^2.1.6"
+  }
+}
